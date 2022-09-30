@@ -95,4 +95,8 @@ struct Book{
             return false;
         }
     }
+
+    //modifiers
+    //enums
+    //event
 }
